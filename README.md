@@ -55,9 +55,7 @@ https://github.com/MCortinez-dev/kotlic-libreta-puntuaciones-app
 
 # 🛠 Tecnologías que uso
 
-```
-JavaScript | Kotlin | Node.js | SQLite | Docker | Git
-```
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MCortinez-dev&layout=compact&theme=tokyonight)
 
 ---
 
