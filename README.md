@@ -12,7 +12,7 @@
  \---------------/          =D--´            
 ```
 
-💻 Estudiante de **Desarrollo de Software**  
+💻 Técnico en Electrónica y Estudiante de **Desarrollo de Software**  
 🚀 Construyendo proyectos para aprender desarrollo real  
 🧠 Interesado en backend, visualización de datos y automatización
 
